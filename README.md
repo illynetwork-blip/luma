@@ -17,6 +17,6 @@
 - **Soin de soi** : respiration guidée, méditation, journal, routine du soir.
 - **Progrès** : poids, séances, eau, sommeil, humeur.
 
-Vos données de santé restent **sur votre appareil**. Photos : Unsplash (licence Unsplash).
+Vos données de santé restent **sur votre appareil**. Photos : Unsplash (licence Unsplash). Vidéos de démonstration : Pexels (licence Pexels).
 
 Ce dépôt contient le site construit. Les sources sont dans le dépôt privé `luma-sources`.
