@@ -1,0 +1,23 @@
+{
+  "name": "Luma · sport et soin de soi",
+  "short_name": "Luma",
+  "description": "Votre défi de 28 jours : séances guidées à la maison, repas simples, respiration, sommeil et suivi des progrès.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F4F7",
+  "theme_color": "#F3F4F7",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    {"src": "icons/luma-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/luma-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/luma-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ],
+  "shortcuts": [
+    {"name": "Séance du jour", "short_name": "Séance", "url": "./#program", "icons": [{"src": "icons/luma-192.png", "sizes": "192x192"}]},
+    {"name": "Soin de soi", "short_name": "Soin", "url": "./#care", "icons": [{"src": "icons/luma-192.png", "sizes": "192x192"}]}
+  ]
+}
