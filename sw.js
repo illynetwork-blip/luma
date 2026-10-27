@@ -1,6 +1,6 @@
 /* Luma — service worker : application disponible hors ligne, photos déjà vues gardées en cache.
    La version change automatiquement à chaque construction (build.py). */
-const VERSION = 'luma-5955ff51';
+const VERSION = 'luma-a8d93b31';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './logo.svg', './icons/luma-192.png', './icons/luma-512.png'];
 const IMMUTABLE = /fonts\.(googleapis|gstatic)\.com|images\.unsplash\.com\//;
 const MAX_IMG = 160;

@@ -3,6 +3,7 @@
   "short_name": "Luma",
   "description": "Votre défi de 28 jours : séances guidées à la maison, repas simples, respiration, sommeil et suivi des progrès.",
   "lang": "fr",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
